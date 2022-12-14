@@ -1,0 +1,50 @@
+.complete {
+    text-decoration: line-through;
+}
+
+.prduct-price{
+  color: green;
+}
+
+.product_image{
+   
+    object-fit:fill;
+    width:200px;
+    height: 200px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgb(234,50,56,0.8);
+    min-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    padding: 20px;
+  }
+  
+  .price {
+    color: #EA3238;
+    font-size: 22px;
+  }
+
+  .featuredProduct{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #0E0C0C;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }

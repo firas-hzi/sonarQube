@@ -1,0 +1,13 @@
+button{
+color :#646464 !important;
+background-color: #EAA64B !important;
+text-decoration: none !important;
+border: solid ;
+border-color: #EA3238;
+}
+
+label, h2, .linkReact{
+    color:white;
+    text-decoration: underline;
+}
+
